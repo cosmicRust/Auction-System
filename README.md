@@ -72,7 +72,7 @@ venv\Scripts\activate          # On Windows
 ### 2. 📥 Install Requirements
 
 ```bash
-pip install PyQt6
+pip install -r requirements.txt
 ```
 
 ### 3. 🚀 Run the App
