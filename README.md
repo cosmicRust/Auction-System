@@ -38,25 +38,6 @@ Designed for managing player auctions with real-time controls, custom teams, pla
 - **QSS** (Qt Style Sheets for styling)
 - **JSON** (for data storage)
 
----
-
-## 📁 Project Structure
-
-```
-
-├── main.py
-├── auctioneer\_panel.py
-├── player\_manager.py
-├── utils/
-│   └── controller.py
-├── data/
-│   └── players.json
-├── assets/
-│   └── team\_logos/
-│       └── mi.png, rcb.png, ...
-├── style.qss
-
-````
 
 ---
 
