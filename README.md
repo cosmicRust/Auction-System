@@ -20,7 +20,7 @@ Designed for managing player auctions with real-time controls, custom teams, pla
 - 👥 **Custom Teams with Logos**  
   Display team buttons (e.g., MI, RCB, CSK) with logos; click to register bids.
 
-- 🪟 **Separated Views** *(Planned)*  
+- 🪟 **Separated Views** 
   Architecture supports clean separation of Auctioneer control view and Bidders display view.
 
 - 💾 **Persistent Data**  
@@ -66,7 +66,7 @@ python main.py
 
 ## 🛠 Planned Enhancements
 
-* Separate display-only bidder view
+
 * CSV export of final auction results
 * Budget tracking per team
 
