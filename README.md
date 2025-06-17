@@ -69,7 +69,6 @@ python main.py
 * Separate display-only bidder view
 * CSV export of final auction results
 * Budget tracking per team
-* Countdown timer per player
 
 ---
 
